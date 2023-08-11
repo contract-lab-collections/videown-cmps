@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+.workdata
+.test-tmp
+cmps
+.vscode
